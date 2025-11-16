@@ -1,4 +1,4 @@
-FROM alpine:3.13
+FROM alpine:3.14
 
 ENV BGMI_PATH="/app"
 ENV BGMI_SAVE_PATH="/data"
